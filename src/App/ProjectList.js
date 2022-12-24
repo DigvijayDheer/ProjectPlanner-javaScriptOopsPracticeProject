@@ -16,7 +16,7 @@ export class ProjectList {
 				)
 			);
 		}
-		console.log(this.projects);
+		// console.log(this.projects);
 		this.connectDroppable();
 	}
 
